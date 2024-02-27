@@ -667,9 +667,7 @@
     .visaimga img {
         height: 25px;
     }
-    .header {
-        min-height: 82px;
-    }
+    
     .headertopoffer {
         background: #fff;
     }
@@ -1169,9 +1167,7 @@
     .headertopoffer {
         display: none;
     }
-    .header {
-        min-height: 91px;
-    }
+   
     .ui-autocomplete {
         width: auto !important;
         left: 15px !important;
@@ -1919,9 +1915,7 @@
     .sticky .main-header .searchbox {
         margin: 5px auto;
     }
-    .header {
-        min-height: auto!important;
-    }
+  
     .widget,
     .widget-back {
         padding: 20px 0;
@@ -2390,7 +2384,7 @@ text-align: left;
 }
 
 
-.desktop-hide .promo {
+/* .desktop-hide .promo {
     text-transform: uppercase;
     font-size: 8px;
     letter-spacing: 3px;
@@ -2402,7 +2396,7 @@ text-align: left;
     padding-top: 15px;
         margin-right: 10px;
     margin-left: 10px;
-}
+} */
 
 
 .oaoa{

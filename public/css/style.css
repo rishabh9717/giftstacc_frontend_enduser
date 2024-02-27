@@ -2451,13 +2451,7 @@ span.cross {
     margin-top: 10px
 }
 
-.botheader {
-       background: #ffffff;
-    height: 80px;
-    box-shadow: 1px 1px 6px 3px rgb(226 226 226 / 27%);
-    z-index: 999;
-    position: relative;
-}
+
 .footsocial h4 {
     font-size: 17px;
     font-weight: 400;
@@ -2851,12 +2845,7 @@ b, strong {
     font-weight: 600
 }
 
-.header {
-    z-index: 40;
-    width: 100%;
-    transition: all .3s;
-    min-height: 80px
-}
+
 
 @-webkit-keyframes fadeInUniversal {
     0% {
@@ -3025,39 +3014,7 @@ b, strong {
     background: #000
 }
 
-.top-menu > ul > li {
-    display: inline-block
-}
 
-    .top-menu > ul > li > a > i {
-        margin-left: 5px;
-        font-size: 13px;
-        transition: all .3s
-    }
-
-    .top-menu > ul > li:hover > a > i {
-        transition: all .3s;
-        transform: rotate(-180deg)
-    }
-
-    .top-menu > ul > li:hover .bigdropmenu {
-        transition: all .25s ease-in-out;
-        transform: translateY(0);
-        opacity: 1;
-        visibility: visible
-    }
-
-    .top-menu > ul > li > a {
-        color: #fff;
-        transition: all .3s;
-        font-size: 16px;
-        display: block;
-        padding: 10px 30px
-    }
-
-    .top-menu > ul > li:hover > a {
-        background: rgba(0,0,0,.1)
-    }
 
 a:hover {
     text-decoration: none
@@ -4288,9 +4245,7 @@ ul {
     font-weight: 100
 }
 
-.top-menu > ul > li:hover ul {
-    display: block
-}
+
 
 #cssmenu > ul > li:hover .megasubmenu {
     display: -ms-flexbox;
@@ -8209,22 +8164,16 @@ button.close.modalclosebtn {
     color: white;
 }
 
-.top-hh {
-       background: #2861f7!important;
-    height: 45px!important;
-}
-.oaoa1 {
-    display: flex;
-    justify-content: flex-start;
-}
 
-.mpromotion {
+
+
+/* .mpromotion {
     height: 30px;
     margin-left: 10px;
     margin-top: 6px;
-}
+} */
 
-.promo {
+/* .promo {
     text-transform: uppercase;
     font-size: 10px;
     letter-spacing: 3px;
@@ -8234,7 +8183,7 @@ button.close.modalclosebtn {
     font-weight: 900;
     padding: 10px;
     padding-top: 15px;
-}
+} */
 
 .exp {
     border: 2px solid #ffffff;
@@ -10412,26 +10361,10 @@ height: 580px!important;
     border-width: 10px 5px;
 }
 
-.desktop-hide{
-    display:none;
-}
-
-.mobile-hide{
-    display:block;
-}
 
 
-@media screen and (max-width: 767px) and (min-width: 320px) {
 
-.desktop-hide{
-    display:block;
-}
 
-.mobile-hide{
-    display:none;
-}
-
-    }
 
 
     .the-fnt-cart{
@@ -10522,7 +10455,7 @@ display:none;
 
 }
 
-@media screen and (max-width: 767px) and (min-width: 320px) {
+/* @media screen and (max-width: 767px) and (min-width: 320px) {
 .section-hero {
     
     background-size: cover;
@@ -10583,7 +10516,7 @@ display:none;
 }
 
 
-}
+} */
 
 
 
@@ -11280,25 +11213,15 @@ border: 1px dashed #0072fd;
 
 }
 
- .mobile-hide{
-        display: block;
 
-    }
 
-    .desktop-hide{
-        display: none;
-    }
+    
 
     .mt-100px{
         margin-top:50px;
     }
 
 
-@media screen and (max-width: 767px) and (min-width: 320px){
-    .mobile-hide{
-        display: none;
-
-    }
 
 .de-counter{
 
@@ -11332,7 +11255,7 @@ border: 1px dashed #0072fd;
     justify-content: center;
 }
 
-.desktop-hide .promo {
+/* .desktop-hide .promo {
     text-transform: uppercase;
     font-size: 8px;
     letter-spacing: 3px;
@@ -11342,7 +11265,7 @@ border: 1px dashed #0072fd;
     font-weight: 900;
     padding: 1px;
     padding-top: 15px;
-}
+} */
 
  .mt-100px{
         margin-top:80px;
