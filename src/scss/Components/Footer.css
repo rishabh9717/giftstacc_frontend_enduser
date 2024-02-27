@@ -1,0 +1,97 @@
+.footer {
+    background: #212121;
+    color: white;
+    padding: 10px;
+}
+/* .new-ft {
+    background: #212121;
+    color: white;
+} */
+.new-ft {
+    background: #0e4d8d!important;
+    color: white;
+}
+
+.footlist {
+    margin: 13px 0;
+}
+
+.kok {
+    width: 160px;
+    border-radius: 6px;
+}
+
+.footsocial ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footsocial ul li a {
+    display: block;
+    color: #fff;
+}
+
+.footsocial ul li a i {
+    font-size: 25px
+}
+
+.footsocial ul li a:hover {
+    color: #fff;
+}
+
+.clr-white {
+    color: white!important;
+}
+.fnt-13 {
+    font-size: 13px!important;
+}
+.footlist h4 {
+    font-size: 14px;
+    margin: 0 0 20px;
+    font-weight: 700;
+}
+
+.footul li {
+    margin-bottom: 10px;
+    color: #000;
+}
+
+.footul li a:hover {
+    color: #ffffff;
+}
+.footul li a {
+    display: block;
+    color: #fff;
+    font-size: 13px;
+}
+
+.footlogos {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid #ffffffed;
+    /* background: #ffffffed; */
+    padding: 25px;
+    padding-bottom: 0;
+    border-radius: 5px;
+}
+
+.copytextbox p {
+    color: #fff;
+    margin: 0 0 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none!important;
+}
