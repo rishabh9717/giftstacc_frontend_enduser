@@ -1,5 +1,4 @@
 import React from 'react'
-import '../../../scss/ProductCart/Letshop.css'
 
 const Letshop = () => {
   return (
